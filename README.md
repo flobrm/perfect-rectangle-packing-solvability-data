@@ -1,5 +1,5 @@
 # Perfect rectangle packing puzzles
-This repository contains a set of 7200 puzzles for perfect rectangle packing categorized by the number of tiles (n) and the maximum possible tile size (t_max). 
+This repository contains a set of 36,600 puzzles for perfect rectangle packing categorized by the number of tiles (n) and the maximum possible tile size (t_max). 
 
 
 ## Dataset description
